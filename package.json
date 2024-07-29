@@ -1,0 +1,12 @@
+{
+	"name": "jotai-legacy",
+	"version": "1.0.0",
+	"description": "Jotai implementation for older react and nodejs",
+	"main": "index.js",
+	"author": "masrurimz",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"react": "^16"
+	}
+}
