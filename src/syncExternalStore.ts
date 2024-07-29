@@ -10,7 +10,7 @@ type GetSnapshot<T> = () => T;
  * @param {Subscribe} subscribe - The function to subscribe to store changes.
  * @param {GetSnapshot<T>} getSnapshot - The function to get the current state snapshot.
  * @returns {T} - The current state.
- * @author github.com/masrurimz
+ * @author https://github.com/masrurimz
  */
 export const useSyncExternalStore = <T>(
 	subscribe: Subscribe,
